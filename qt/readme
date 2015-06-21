@@ -1,6 +1,9 @@
 【项目名称】
 	linux环境下，基于qt的项目代码
 
+【项目描述】
+	保存的一些qt程序，方便学习
+
 【项目环境】
 	[oracle@localhost ddd]$ cat /proc/version 
 	Linux version 2.6.32-279.el6.i686 (mockbuild@x86-010.build.bos.redhat.com) (gcc version 4.4.6 20120305 (Red Hat 4.4.6-4) (GCC) ) #1 SMP Wed Jun 13 18:23:32 EDT 2012
